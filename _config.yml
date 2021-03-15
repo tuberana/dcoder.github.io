@@ -9,7 +9,7 @@ baseurl: /de4js
 repository: lelinhtinh/de4js
 license: MIT
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 show_downloads: false
 google_analytics: UA-106940288-1
 sass:
